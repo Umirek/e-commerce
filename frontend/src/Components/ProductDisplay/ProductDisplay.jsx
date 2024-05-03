@@ -32,11 +32,11 @@ const ProductDisplay = (props) => {
                 <div className="productdisplay-right-price-new">${product.new_price}</div>
             </div>
             <div className="productdisplay-right-description">
-                A lightweight, usually knitted, pullover short, ideal for casual outings or relaxed moments at home. Its effortless design offers comfort and style, making it a versatile staple in any wardrobe. Whether paired with jeans for a laid-back look or layered over a tank for added warmth, this pullover short effortlessly combines comfort and fashion.
+                A lightweight, usually knitted, pullover short, ideal for casual outings or relaxed moments at home.
             </div>
             <div className="productdisplay-right-size">
                 <h1>Select Size</h1>
-                <div className="productdisplay-right-size">
+                <div className="productdisplay-right-sizes">
                     <div>S</div>
                     <div>M</div>
                     <div>L</div>
